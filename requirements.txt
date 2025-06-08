@@ -2,3 +2,5 @@ Flask
 Flask-SQLAlchemy
 pymysql
 gunicorn
+git add .
+cryptography
