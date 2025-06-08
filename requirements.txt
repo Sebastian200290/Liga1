@@ -3,4 +3,5 @@ Flask-SQLAlchemy
 pymysql
 gunicorn
 cryptography
-Flask-SQLAlchemy
+flask_sqlalchemy
+certifi
